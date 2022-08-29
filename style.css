@@ -103,3 +103,7 @@ body {
 .keyboard_wrapper .key .uppercase {
     text-transform: capitalize;
 }
+
+.uppercased {
+    text-transform: uppercase;
+}
